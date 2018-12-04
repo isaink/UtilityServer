@@ -1,0 +1,15 @@
+{
+  "name": "utilityserver",
+  "version": "1.0.0",
+  "description": "creating an Express server (doing Math Routes and search)",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isa",
+  "license": "ISC"
+}
